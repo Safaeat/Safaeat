@@ -1,5 +1,5 @@
 <h1 align="center">Hello there👋, It's Safaeat Molla</h1>
-## ``` Welcome to my GitHub, here you can explore my projects and interests. ```
+<h2 align="center:>``` Welcome to my GitHub, here you can explore my projects and interests. ```<h2>
 <h3 align="center">Aspiring to make my career in Software Development | Machine Learning | Frontend Development. I'm from Bangladesh.</h3>
 
 
