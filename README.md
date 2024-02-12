@@ -2,7 +2,7 @@
 <h2 align="center">Welcome to my GitHub, here you can explore my projects and interests.</h2>
 <h3 align="center">Aspiring to make my career in Software Development | Machine Learning | Frontend Development. I'm from Bangladesh.</h3>
 
-<img align="right" alt="coding" width="360px" src="![image](https://github.com/Safaeat/Safaeat/assets/89898173/1f14fcfb-36a1-4fe4-82eb-8aa3970a24a6)">
+<img align="right" alt="coding" width="360px" src="https://github.com/Safaeat/Safaeat/assets/89898173/1f14fcfb-36a1-4fe4-82eb-8aa3970a24a6)](https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
 ## About Me
 
 - 🔭 I’m currently studying **BSc in Computer Science.**
