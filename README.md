@@ -3,11 +3,6 @@
 <h3 align="center">Aspiring to make my career in Software Development | Machine Learning | Frontend Development. I'm from Bangladesh.</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=safaeat&label=Profile%20views&color=0e75b6&style=flat" alt="safaeat" /> </p>
-
-<!'''<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=safaeat" alt="safaeat" /></a> </p>'''!>
-
-
 ## About Me
 
 - 🔭 I’m currently studying **BSc in Computer Science.**
@@ -15,6 +10,8 @@
 - 🌱 I’m currently learning **SDLC and Machine Learning.**
 
 - ⚡ Fun fact **I love to sleep and play Soccer.**
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=safaeat&label=Profile%20views&color=0e75b6&style=flat" alt="safaeat" /> </p>
 
 
 ## Projects
