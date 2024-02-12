@@ -2,7 +2,7 @@
 <h2 align="center">Welcome to my GitHub, here you can explore my projects and interests.</h2>
 <h3 align="center">Aspiring to make my career in Software Development | Machine Learning | Frontend Development. I'm from Bangladesh.</h3>
 
-<p align="right"><img alt="coding" width="280px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif"></p>
+
 ## About Me
 
 - 🔭 I’m currently studying **BSc in Computer Science.**
@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **SDLC and Machine Learning.**
 
 - ⚡ Fun fact: **I love to sleep and play Soccer.**
-
+<img align="right" alt="coding" width="280px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif"></br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=safaeat&label=Profile%20views&color=0e75b6&style=flat" alt="safaeat" /> 
 
 ## Projects
