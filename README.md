@@ -11,9 +11,8 @@
 
 - ⚡ Fun fact: **I love to sleep and play Soccer.**
 
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=safaeat&label=Profile%20views&color=0e75b6&style=flat" alt="safaeat" /> </p>
-
-
 ## Projects
 
 Here are some of my projects:
