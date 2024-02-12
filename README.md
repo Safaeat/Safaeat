@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact: **I love to sleep and play Soccer.**
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=safaeat&label=Profile%20views&color=0e75b6&style=flat" alt="safaeat" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=safaeat&label=Profile%20views&color=0e75b6&style=flat" alt="safaeat" /> 
 
 ## Projects
 
@@ -21,7 +21,7 @@ Here are some of my projects:
 - [Inventory Management System Project](https://github.com/Safaeat/Web-Internet/tree/main/Inventory%20Management%20System%20Project)
 - [Patient Health Care Management System](https://github.com/Safaeat/Patient-Health-Care-System-Project)
 - [Heart Disease Prediction using AI](https://github.com/Safaeat/Artificial-Intelligence/tree/main/Heart_disease_prediction%20using%20AI)
-- [Movie Recommendation System using machine learning practice](https://github.com/Safaeat/ML-Practice/tree/main/Recommendation%20System/Movie%20Recommmender%20System)
+- [Movie Recommendation System using machine learning practice](https://github.com/Safaeat/ML-Practice/tree/main/Recommendation%20System/Movie%20Recommmender%20System)</p>
 
 
 ## Research
