@@ -1,11 +1,12 @@
 <h1 align="center">Hello there👋, It's Safaeat Molla</h1>
 <h3 align="center">A passionate person to make the carrier in Software Development | Machine Learning | frontend development. I'm from Bangladesh.</h3>
+## ``` Welcome to my GitHub, here you can explore my projects and interests. ```
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safaeat&label=Profile%20views&color=0e75b6&style=flat" alt="safaeat" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=safaeat" alt="safaeat" /></a> </p>
+//<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=safaeat" alt="safaeat" /></a> </p>
 
-## ``` Welcome to my GitHub, here you can explore my projects and interests. ```
+
 ## About Me
 
 - 🔭 I’m currently studying **BSc in Computer Science.**
