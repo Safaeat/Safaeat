@@ -2,7 +2,7 @@
 <h2 align="center">Welcome to my GitHub, here you can explore my projects and interests.</h2>
 <h3 align="center">Aspiring to make my career in Software Development | Machine Learning | Frontend Development. I'm from Bangladesh.</h3>
 
-<img align="right" alt="coding" height="50px" width="80px" src="https://github.com/Safaeat/Safaeat/assets/89898173/4e3468f5-381e-4fb8-b48b-dc061ebcb531">
+<img align="right" alt="coding" width="400px" src="https://github.com/Safaeat/Safaeat/assets/89898173/4e3468f5-381e-4fb8-b48b-dc061ebcb531">
 ## About Me
 
 - 🔭 I’m currently studying **BSc in Computer Science.**
