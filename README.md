@@ -1,6 +1,7 @@
 <h1 align="center">Hello there👋, It's Safaeat Molla</h1>
-<h3 align="center">A passionate person to make the carrier in Software Development | Machine Learning | frontend development. I'm from Bangladesh.</h3>
 ## ``` Welcome to my GitHub, here you can explore my projects and interests. ```
+<h3 align="center">Aspiring to make my career in Software Development | Machine Learning | Frontend Development. I'm from Bangladesh.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safaeat&label=Profile%20views&color=0e75b6&style=flat" alt="safaeat" /> </p>
 
