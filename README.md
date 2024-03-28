@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently studying **BSc in Computer Science.**
 
-- 🌱 I’m currently learning **SDLC and Machine Learning.**
+- 🌱 I’m currently learning **Software Development and Machine Learning.**
 
 - ⚡ Fun fact: **I love to sleep and play Soccer.**
 
