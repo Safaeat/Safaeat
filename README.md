@@ -18,8 +18,9 @@
 
 Here are some of my projects:
 
-- [Movie Recommendation System using machine learning practice]([https://github.com/Safaeat/ML-Practice/tree/main/Recommendation%20System/Movie%20Recommmender%20System](https://github.com/Safaeat/movie-recommender-system))</p>
+- [Movie Recommendation System using machine learning practice](https://github.com/Safaeat/movie-recommender-system)</p>
 - [Heart Disease Prediction using AI](https://github.com/Safaeat/Artificial-Intelligence/tree/main/Heart_disease_prediction%20using%20AI)
+- [Building National Martyrs' Memorial project using OpenGL and glut](https://github.com/Safaeat/SEU-CV-Generator-)
 - [Building National Martyrs' Memorial project using OpenGL and glut](https://github.com/Safaeat/Practice/tree/main/Computer%20G%20%26%20A)
 - [Inventory Management System Project](https://github.com/Safaeat/Web-Internet/tree/main/Inventory%20Management%20System%20Project)
 - [Patient Health Care Management System](https://github.com/Safaeat/Patient-Health-Care-System-Project)
